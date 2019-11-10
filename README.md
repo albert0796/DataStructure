@@ -5,6 +5,7 @@
 ### Instructor：TSAI, YUN-CHENG
 ### Credit(s)：3
 
+
 Lecture 1 - Linked List
 
 Lecture 2 - Stack / Queue
