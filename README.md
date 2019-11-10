@@ -1,9 +1,9 @@
-# DSA 
+# DSA (DATA STRUCTURES AND ALGORITHMS)
 
-## Class Name: DATA STRUCTURES AND ALGORITHMS
-## Course Code: BDM30101
-## Instructor：TSAI, YUN-CHENG
-## Credit(s)：3
+### Class Name: DATA STRUCTURES AND ALGORITHMS
+### Course Code: BDM30101
+### Instructor：TSAI, YUN-CHENG
+### Credit(s)：3
 
 Lecture 1 - Linked List
 
