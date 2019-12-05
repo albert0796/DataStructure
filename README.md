@@ -16,3 +16,7 @@ Lecture 4 - Merge Sort / Heap Sort
 Lecture 5 - Binary Tree
 
 Lecture 6 - Binary Tree Search
+
+Lecture 7 - Red Black Tree 
+
+Lecture 8 - Hash Table
