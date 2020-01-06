@@ -1,3 +1,6 @@
+[Merge Sort 流程圖、學習筆記、文字說明](https://github.com/albert0796/DSA/blob/master/HW2/Merge%20Sort%20%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98%E3%80%81%E6%96%87%E5%AD%97%E8%AA%AA%E6%98%8E.pdf)  
+[Heap Sort 流程圖、學習筆記、文字說明](https://github.com/albert0796/DSA/blob/master/HW2/Heap%20Sort%20%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98%E3%80%81%E6%96%87%E5%AD%97%E8%AA%AA%E6%98%8E.pdf)
+
 Merge Sort
   
 1.	分割
