@@ -1,4 +1,4 @@
-[QuickSort說明、流程](https://github.com/albert0796/DSA/blob/master/HW1/QuickSort%E8%AA%AA%E6%98%8E%E3%80%81%E6%B5%81%E7%A8%8B%E5%9C%96.pdf)
+[QuickSort說明、流程圖](https://github.com/albert0796/DSA/blob/master/HW1/QuickSort%E8%AA%AA%E6%98%8E%E3%80%81%E6%B5%81%E7%A8%8B%E5%9C%96.pdf)
   
 快速排序法 (Quick Sort) 會先在資料中任意找一個值作為中間值，把小於中間值的資料放在左邊而把大於中間值的資料放右邊，再以同樣的方式分別處理左右兩邊的資料，直到完成為止。
 該方法是目前公認最佳的排序法。  
