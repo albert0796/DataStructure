@@ -5,6 +5,7 @@
 ### Instructor：TSAI, YUN-CHENG
 ### Credit(s)：3  
 ##   
+###  Weekly Schedule
 Week 1 - Introduction
 * 上課方式與計分規則說明
 
