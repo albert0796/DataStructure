@@ -1,3 +1,5 @@
+[Hash Table流程圖、學習歷程與Hash Table與Hash function原理](https://github.com/albert0796/DSA/blob/master/HW4/Hash%20Table%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E8%88%87Hash%20Table%E8%88%87Hash%20function%E5%8E%9F%E7%90%86.pdf)
+
 一、	Hash Table流程圖
 1.	建立Hash Table並決定其長度
  
