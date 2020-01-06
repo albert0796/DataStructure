@@ -1,3 +1,5 @@
+[Binary Search Tree 流程圖、學習歷程、BST原理](https://github.com/albert0796/DSA/blob/master/HW3/Binary%20Search%20Tree%20%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81BST%E5%8E%9F%E7%90%86.pdf)
+
 BST 原理 & 流程圖  
   
 A.	結構
