@@ -20,3 +20,9 @@ Lecture 6 - Binary Tree Search
 Lecture 7 - Red Black Tree 
 
 Lecture 8 - Hash Table
+
+目的與介紹  
+檔案結構與其能連結內部所有檔案的超連結  
+week1~week18  
+自我簡介  
+簡單心得  
