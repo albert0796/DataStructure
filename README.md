@@ -5,21 +5,21 @@
 ### Instructor：TSAI, YUN-CHENG
 ### Credit(s)：3  
 ##   
-Lecture 1 - Linked List
+Week 1 - Linked List
 
-Lecture 2 - Stack / Queue
+Week 2 - Stack / Queue
 
-Lecture 3 - Quick Sort / Insertion Sort / Bubble Sort
+Week 3 - Quick Sort / Insertion Sort / Bubble Sort
 
-Lecture 4 - Merge Sort / Heap Sort
+Week 4 - Merge Sort / Heap Sort
 
-Lecture 5 - Binary Tree
+Week 5 - Binary Tree
 
-Lecture 6 - Binary Tree Search
+Week 6 - Binary Tree Search
 
-Lecture 7 - Red Black Tree 
+Week 7 - Red Black Tree 
 
-Lecture 8 - Hash Table
+Week 8 - Hash Table
 
 目的與介紹  
 檔案結構與其能連結內部所有檔案的超連結  
