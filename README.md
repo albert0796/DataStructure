@@ -10,7 +10,7 @@ Week 1 - Introduction
 * 上課方式與計分規則說明
 
 Week 2 - Linked List
-* 課程內容 & 學習歷程
+* [課程內容 & 學習歷程](https://github.com/albert0796/DSA/blob/master/Codesignal/%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B/learning%20note_linked%20list.pdf)
 * [補充影片1](https://www.youtube.com/watch?v=VlNSgo4xHWk)、[補充影片2](https://www.youtube.com/watch?v=WwfhLC16bis&feature=emb_title)
 * [實作程式碼](https://github.com/albert0796/DSA/blob/master/Codesignal/%E7%A8%8B%E5%BC%8F%E7%A2%BC/linked%20list.py)
 
