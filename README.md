@@ -15,7 +15,7 @@ Week 2 - Linked List
 * [實作程式碼](https://github.com/albert0796/DSA/blob/master/Codesignal/%E7%A8%8B%E5%BC%8F%E7%A2%BC/linked%20list.py)
 
 Week 3 - Stack & Queue
-* 課程內容 & 學習歷程
+* [課程內容 & 學習歷程](https://github.com/albert0796/DSA/blob/master/Codesignal/%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B/learning%20note_queue%20%26%20stack.pdf)
 * [補充影片1](https://www.youtube.com/watch?v=BrVZZZkkGGI)、[補充影片2](https://www.youtube.com/watch?v=wjI1WNcIntg)、[補充影片3](https://www.youtube.com/watch?v=XuCbpw6Bj1U)
 * [實作程式碼](https://github.com/albert0796/DSA/blob/master/Codesignal/%E7%A8%8B%E5%BC%8F%E7%A2%BC/Queue.py)
 
@@ -84,6 +84,9 @@ Week 18- No Class
 ##  
 ### CS50
 [CS50](https://github.com/albert0796/DSA/tree/master/CS50)
+##  
+### CodeSignal
+[CodeSignal](https://github.com/albert0796/DSA/tree/master/Codesignal)
 ##  
 ### 自我簡介 
 畢業於東吳大學經濟系輔修財務工程與精算數學系。專長領於為財金與經濟。曾於富蘭克林華美投信研究部、上海吉富投資與中租迪和法金部門擔任實習生。目前正在鑽研資料科學，並將該方法用於分析商業議題。
