@@ -47,8 +47,9 @@ Week 9- Binary Search Tree
 * [實作程式碼](https://github.com/albert0796/DSA/blob/master/HW3/binary_search_tree_03151107.py)
 
 Week 10 Red Black Tree
-* 課程內容 & 學習歷程
+* [課程內容 & 學習歷程](https://github.com/albert0796/DSA/blob/master/Codesignal/%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B/Reb%20Black%20Tree.pdf)
 * [補充影片1](https://www.youtube.com/watch?v=4WjwmHeKa1Q)、[補充影片2](https://www.youtube.com/watch?v=fP1taNiz7ZI&t=866s)
+* 實作程式碼
 
 Week 11 Hash Table
 * [課程內容 & 學習歷程1](https://github.com/albert0796/DSA/blob/master/HW4/Hash%20Table%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E8%88%87Hash%20Table%E8%88%87Hash%20function%E5%8E%9F%E7%90%86.pdf)
