@@ -82,6 +82,9 @@ Week 18- No Class
 ### Leetcode
 [Leetcode](https://github.com/albert0796/DSA/tree/master/Leetcode)
 ##  
+### CS50
+[CS50](https://github.com/albert0796/DSA/tree/master/CS50)
+##  
 ### 自我簡介 
 畢業於東吳大學經濟系輔修財務工程與精算數學系。專長領於為財金與經濟。曾於富蘭克林華美投信研究部、上海吉富投資與中租迪和法金部門擔任實習生。目前正在鑽研資料科學，並將該方法用於分析商業議題。
 ##   
