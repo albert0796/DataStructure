@@ -2,7 +2,7 @@
 
 ### Class Name: DATA STRUCTURES AND ALGORITHMS
 ### Course Code: BDM30101
-### Instructor：TSAI, YUN-CHENG
+### Instructor：TSAI, YUN-CHENG Ph.D
 ### Credit(s)：3  
 ##   
 ###  Weekly Schedule
