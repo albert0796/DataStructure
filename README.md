@@ -7,7 +7,7 @@
 ##   
 ###  Weekly Schedule
 Week 1 - Introduction
-* Course Format and Grading Policy Explanation
+* Course and Grading Policy Explanation
 
 Week 2 - Linked List
 * [Class content & opinion](https://github.com/albert0796/DSA/blob/master/Codesignal/%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B/learning%20note_linked%20list.pdf)
