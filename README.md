@@ -80,14 +80,13 @@ Week 17- Final Test
 
 Week 18- No Class
 ##  
-### Leetcode
-[Leetcode](https://github.com/albert0796/DSA/tree/master/Leetcode)
+### [Leetcode](https://github.com/albert0796/DSA/tree/master/Leetcode)
 ##  
-### CS50
-[CS50](https://github.com/albert0796/DSA/tree/master/CS50)
-##  
+### [Reference](https://github.com/albert0796/DSA/tree/master/CS50)
+<!-- ##  
 ### CodeSignal
 [CodeSignal](https://github.com/albert0796/DSA/tree/master/Codesignal)
+ -->
 ##  
 ### Homework
 [HW1](https://github.com/albert0796/DSA/tree/master/HW1) [HW2](https://github.com/albert0796/DSA/tree/master/HW2) [HW3](https://github.com/albert0796/DSA/tree/master/HW3) [HW4](https://github.com/albert0796/DSA/tree/master/HW4) [HW5](https://github.com/albert0796/DSA/tree/master/HW5) [HW6](https://github.com/albert0796/DSA/tree/master/HW6)
